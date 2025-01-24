@@ -1,9 +1,9 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Create from './Create';
-import Read from './Read';
-import Update from './Update';
-import Home from './home';
+import Create from './Create.jsx';
+import Read from './Read.jsx';
+import Update from './Update.jsx';
+import Home from './Home.jsx';
 
 function App() {
     return (
